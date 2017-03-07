@@ -1,0 +1,8 @@
+{"name": "Sequence1",
+ "score": 1000,
+ "category": "Sequence",
+ "grader": "Sequence/Sequence1/grader.py",
+ "description": "2, _, 6, _, 10",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": ""}
