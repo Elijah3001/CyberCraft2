@@ -1,0 +1,10 @@
+{"name": "HelloWorld1",
+ "score": 30,
+ "category": "HelloWorld",
+ "grader": "HelloWorld/HelloWorld1/grader.py",
+ "description": "What is the name of the Problem?",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": "Check description."}
+
+

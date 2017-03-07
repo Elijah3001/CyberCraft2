@@ -1,0 +1,10 @@
+{"name": "HelloWorld2",
+ "score": 35,
+ "category": "HelloWorld",
+ "grader": "HelloWorld/HelloWorld2/grader.py",
+ "description": "Check hint.",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": "<a target=_blank href='/problem-static/HelloWorld/HelloWorld2/HelloWorld2.html'>Flag</a>"}
+
+
