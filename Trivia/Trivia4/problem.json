@@ -1,0 +1,8 @@
+{"name": "Trivia4",
+ "score": 80,
+ "category": "Trivia",
+ "grader": "Trivia/Trivia4/grader.py",
+ "description": "What is the most commonly used programming language?",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": ""}
