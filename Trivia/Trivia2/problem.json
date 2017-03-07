@@ -1,0 +1,8 @@
+{"name": "Trivia1",
+ "score": 500,
+ "category": "Trivia",
+ "grader": "Trivia/Trivia1/grader.py",
+ "description": "What is the name of the famous hactivist organization?",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": "They were masks"}
