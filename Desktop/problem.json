@@ -1,10 +1,10 @@
-{"name": "Trivia1",
- "score": 500,
+{"name": "Trivia2",
+ "score": 600,
  "category": "Trivia",
- "grader": "Trivia/Trivia1/grader.py",
- "description": "What is the name of the famous hactivist organization?",
+ "grader": "Trivia/Trivia2/grader.py",
+ "description": "What is the name of the first computer?",
  "threshold": 0,
  "weightmap": {},
- "hint": "They were masks"}
+ "hint": ""}
 
 
