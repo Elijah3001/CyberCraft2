@@ -1,0 +1,8 @@
+{"name": "Trivia1",
+ "score": 60,
+ "category": "Trivia1",
+ "grader": "Trivia/Trivia1/grader.py",
+ "description": "Who created Linux?",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": ""}
