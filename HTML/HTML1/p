@@ -1,0 +1,8 @@
+{"name": "HTML1",
+ "score": 200,
+ "category": "HTML",
+ "grader": "HTML/HTML1/grader.py",
+ "description": "<a target=_blank href='/problem-static/HTML/HTML1/First.html'>Click Here</a>",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": "Text"}
