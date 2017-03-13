@@ -1,0 +1,8 @@
+{"name": "crypto1",
+ "score": 160,
+ "category": "crypto",
+ "grader": "crypto/crypto1/grader.py",
+ "description": "Jfily Klmlukly",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": "7"}
