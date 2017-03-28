@@ -1,0 +1,8 @@
+{"name": "Steganography2",
+ "score": 300,
+ "category": "Steganography",
+ "grader": "Steganography/Steganography2/grader.py",
+ "description": "<img src=\"/problem-static/Steganography/Steganography2/picture2.png\" height=\"200\" width=\"200\" alt=\"oops, you should see something here\"/>",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": "<a target='_blank' href='/problem-static/Steganography/Steganography2/hide.py'>Code</a>"}
