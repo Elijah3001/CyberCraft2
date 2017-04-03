@@ -1,7 +1,5 @@
 def grade(arg, key):
-  if '01100011 01101111 01101110 01110110 01100101 01110010 01110100 00100000 01110100 01101000 01101001 01110011 00100000 01110100 01101111 00100000 01100010 01101001 01101110 01100001 01110010 01111001' in key:
+  if 'this is binary'or'This is binary'or'This is Binary'or'THIS IS BINARY' in key:
     return True, "Good work!"
   else:
     return False, "Nope"
-
-
