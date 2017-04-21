@@ -1,4 +1,5 @@
 #Hiding Text in an image
+#credit: DrapsTV 
 
 from PIL import Image
 import binascii
