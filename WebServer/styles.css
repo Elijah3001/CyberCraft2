@@ -1,0 +1,36 @@
+/* CSS */
+
+
+title {
+	font-size: 250%;
+
+}
+
+body {
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	background-color: #072F06;
+	line-height: 125%;
+	padding: 15px;
+	border: 4px solid green;
+	color: white;
+	
+}
+
+h1 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: x-large;
+	color: white;
+}	
+
+li {
+
+	font-size: small;
+
+
+
+
+}
+
+
+
+
